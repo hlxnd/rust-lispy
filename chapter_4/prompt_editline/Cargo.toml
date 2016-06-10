@@ -4,8 +4,6 @@ version = "0.1.0"
 authors = ["a.hildenbrand <a.hildenbrand@gmail.com>"]
 
 [dependencies]
-readline = { git = "https://github.com/shaleh/rust-readline" }
+readline = { git = "https://github.com/hlxnd/rust-readline" }
 
-#[dependencies]
-#editline = { git = "https://github.com/wkz/rust-editline.git" }
 
